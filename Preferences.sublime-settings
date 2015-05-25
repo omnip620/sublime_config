@@ -1,0 +1,23 @@
+{
+	"Seti_blue_tab_label": true,
+	"Seti_in_4_a_treat": true,
+	"Seti_no_bar_undertabs": true,
+	"Seti_rainbow": true,
+	"Seti_sb_tree_med": true,
+	"Seti_tabs_small": true,
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"findreplace_small": true,
+	"font_face": "SourceCodePro",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"mouse_wheel_tabswitch": true,
+	"sidebar_small": true,
+	"tabs_small": true,
+	"theme": "Seti.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"BracketHighlighter",
+		"Darkula Color Scheme",
+		"HTML-CSS-JS Prettify",
+		"JavaScriptNext - ES6 Syntax",
+		"Markdown Preview",
+		"NodeRequirer",
+		"Package Control",
+		"Predawn",
+		"Predawn Monokai",
+		"Predawn Twilight Theme",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"Stylus"
+	]
+}
