@@ -7,10 +7,10 @@
 	"Seti_tabs_small": true,
 	"auto_indent": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"color_scheme": "Packages/Predawn Twilight Theme/Predawn Twilight.tmTheme",
 	"findreplace_small": true,
 	"font_face": "SourceCodePro",
-	"font_size": 12,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
