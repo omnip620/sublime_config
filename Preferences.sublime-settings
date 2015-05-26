@@ -1,0 +1,15 @@
+{
+	"Seti_sb_small_padding": true,
+	"Seti_tabs_small": true,	
+	"font_face": "Source Code Pro",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 1,
+	"theme": "Seti.sublime-theme",
+ "color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"translate_tabs_to_spaces#!/usr/bin/env": false
+}
