@@ -4,21 +4,31 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"AlignTab",
 		"BracketHighlighter",
 		"Color Highlighter",
-		"Darkula Color Scheme",
+		"CTags",
+		"EJS",
+		"Emmet",
 		"HTML-CSS-JS Prettify",
+		"InputHelper",
+		"JavaScript Completions",
+		"JavaScript Console",
 		"JavaScriptNext - ES6 Syntax",
-		"Markdown Preview",
+		"LiveStyle",
 		"NodeRequirer",
 		"Package Control",
-		"Predawn",
-		"Predawn Monokai",
-		"Predawn Twilight Theme",
 		"Seti_UI",
 		"Seti_UX",
 		"SideBarEnhancements",
-		"Stylus"
+		"SnippetMaker",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"Sublimerge Pro",
+		"Theme - Brogrammer"
 	]
 }

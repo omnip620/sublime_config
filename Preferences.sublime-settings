@@ -7,9 +7,9 @@
 	"Seti_tabs_small": true,
 	"auto_indent": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Predawn Twilight Theme/Predawn Twilight.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
 	"findreplace_small": true,
-	"font_face": "SourceCodePro",
+	"font_face": "Source Code Pro",
 	"font_size": 10,
 	"ignored_packages":
 	[
